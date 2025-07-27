@@ -1,0 +1,5 @@
+{
+  "name": "FreshStock",
+  "description": "A web app for street food vendors to easily order fresh ingredients from nearby fulfillment centers, designed with a focus on simplicity and ease of use for low-literacy users.",
+  "requestFramePermissions": []
+}
