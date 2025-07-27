@@ -1,5 +1,0 @@
-{
-  "name": "Outlet Management System",
-  "description": "An application for outlet employees to manage orders and stock. It allows for booking new orders, viewing and completing existing orders, and managing stock levels.",
-  "requestFramePermissions": []
-}
