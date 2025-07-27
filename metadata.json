@@ -1,0 +1,5 @@
+{
+  "name": "FreshStock Outlet Management",
+  "description": "A comprehensive system for food vendors to order stock and for outlet employees to manage inventory and customer orders in real-time.",
+  "requestFramePermissions": []
+}
